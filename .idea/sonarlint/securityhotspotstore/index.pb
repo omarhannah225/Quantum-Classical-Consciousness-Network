@@ -5,3 +5,5 @@ P
  contracts/governance-system.clar,4/0/406765e92fa0bd54162db1a35f427f030b9332a8
 \
 ,contracts/consciousness-data-management.clar,0/8/0832f53e78737da2320c5764e09a3a5a7edbded0
+^
+.contracts/consciousness-transfer-protocol.clar,f/f/ff5fc3cb94615e9af700249300b9c3b4ed6a340d
