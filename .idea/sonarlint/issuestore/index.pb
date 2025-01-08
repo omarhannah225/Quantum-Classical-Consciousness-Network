@@ -17,3 +17,5 @@ W
 'tests/consciousness-pattern-nft.test.ts,b/e/bea7cfa1acd87fbe3100389a4fe6f2a55f9a0af8
 ]
 -tests/consciousness-transfer-protocol.test.ts,7/9/79c7757cabadf80d0a5cc60a4e313ddf1f195ee0
+O
+tests/governance-system.test.ts,b/a/ba0c32a61d38a50cd4c032c57509fb0d7ac75f19
