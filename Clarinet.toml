@@ -10,8 +10,8 @@ path = 'contracts/consciousness-data-management.clar'
 clarity_version = 2
 epoch = 2.5
 
-[contracts.consciousness-storage-solution]
-path = 'contracts/consciousness-storage-solution.clar'
+[contracts.consciousness-pattern-nft]
+path = 'contracts/consciousness-pattern-nft.clar'
 clarity_version = 2
 epoch = 2.5
 

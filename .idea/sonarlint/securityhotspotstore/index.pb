@@ -9,3 +9,5 @@ P
 .contracts/consciousness-transfer-protocol.clar,f/f/ff5fc3cb94615e9af700249300b9c3b4ed6a340d
 ]
 -contracts/consciousness-storage-solution.clar,2/0/20ce0ecf8e6f8e073c32ab33319155ddef55f914
+X
+(contracts/consciousness-pattern-nft.clar,d/3/d3e05dd25b4919a4b254b1101f3f96335bcbbeba
