@@ -10,6 +10,11 @@ path = 'contracts/consciousness-data-management.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.consciousness-storage-solution]
+path = 'contracts/consciousness-storage-solution.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.consciousness-transfer-protocol]
 path = 'contracts/consciousness-transfer-protocol.clar'
 clarity_version = 2
