@@ -15,3 +15,5 @@ X
 +tests/consciousness-data-management.test.ts,c/4/c4bac282dcc075e8dff473853252c8aa2790d351
 W
 'tests/consciousness-pattern-nft.test.ts,b/e/bea7cfa1acd87fbe3100389a4fe6f2a55f9a0af8
+]
+-tests/consciousness-transfer-protocol.test.ts,7/9/79c7757cabadf80d0a5cc60a4e313ddf1f195ee0
