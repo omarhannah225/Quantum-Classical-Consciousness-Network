@@ -13,3 +13,5 @@ X
 (contracts/consciousness-pattern-nft.clar,d/3/d3e05dd25b4919a4b254b1101f3f96335bcbbeba
 [
 +tests/consciousness-data-management.test.ts,c/4/c4bac282dcc075e8dff473853252c8aa2790d351
+W
+'tests/consciousness-pattern-nft.test.ts,b/e/bea7cfa1acd87fbe3100389a4fe6f2a55f9a0af8
