@@ -1,0 +1,34 @@
+[project]
+name = 'Quantum-Classical-Consciousness-Network'
+description = ''
+authors = []
+telemetry = true
+cache_dir = './.cache'
+requirements = []
+[contracts.consciousness-data-management]
+path = 'contracts/consciousness-data-management.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.consciousness-pattern-nft]
+path = 'contracts/consciousness-pattern-nft.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.consciousness-transfer-protocol]
+path = 'contracts/consciousness-transfer-protocol.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.governance-system]
+path = 'contracts/governance-system.clar'
+clarity_version = 2
+epoch = 2.5
+[repl.analysis]
+passes = ['check_checker']
+
+[repl.analysis.check_checker]
+strict = false
+trusted_sender = false
+trusted_caller = false
+callee_filter = false
